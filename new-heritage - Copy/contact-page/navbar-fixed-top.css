@@ -1,0 +1,88 @@
+body {
+  min-height: 1000px;
+  padding-top: 70px;
+
+  
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#596a72+35,cedce7+100 */
+background: rgb(89,106,114); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(89,106,114,1) 35%, rgba(206,220,231,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(89,106,114,1) 35%,rgba(206,220,231,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(89,106,114,1) 35%,rgba(206,220,231,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#596a72', endColorstr='#cedce7',GradientType=0 ); /* IE6-9 */
+
+}
+
+.jumbotron {
+
+background: url(../images/277H.jpg) repeat center center ;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+
+color: #000000;
+
+height: 500px;
+
+}
+
+.containter {
+
+	color:black;
+
+}
+
+ .row a{
+
+ 	color: black;
+ }
+
+.footer{
+
+	height: 70px auto;
+	
+	width: auto;
+	border-top: solid #5982c0 10px;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+
+
+	text-align: sky;
+	background-color: rgb(89,106,114);
+	color: white;
+
+
+}
+
+
+.footer a {
+	color: white;
+
+
+
+}
+
+.footer a:hover {
+
+	
+
+	-webkit-text-decoration:underline white;
+}
+
+.hours{
+
+	margin-bottom: -8px;
+}
+
+.hours li{
+
+	list-style-type: none;
+
+	
+}
+
+.footer span {
+
+	visibility: hidden;
+}
+	
